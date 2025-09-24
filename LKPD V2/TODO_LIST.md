@@ -19,24 +19,34 @@
 - [x] Bab 16: Sistem Pernapasan & Pengobatan Herbal
 - [x] Bab 17: Sistem Ekskresi & Kesehatan Ginjal
 - [x] Bab 18: Sistem Ekskresi & Pengobatan Tradisional
+- [x] Bab 19: Tekanan & Arsitektur Rumah Gadang
+- [x] Bab 20: Tekanan & Sistem Irigasi Tradisional
+- [x] Bab 21: Tekanan & Perahu Tradisional
+- [x] Bab 22: Getaran & Alat Musik Tradisional
+- [x] Bab 23: Gelombang Bunyi & Randai Minangkabau
+- [x] Bab 24: Gelombang Air & Permainan Tradisional
+- [x] Bab 25: Cahaya & Cermin Rumah Gadang
+- [x] Bab 26: Pembiasan & Kaca Tradisional
+- [x] Bab 27: Dispersi & Pelangi Danau Maninjau
+- [x] Bab 28: Gaya & Bajak Tradisional
+- [x] Bab 29: Usaha & Kincir Air Tradisional
+- [x] Bab 30: Daya & Pengolahan Pangan Tradisional
+- [x] Bab 31: Energi & Teknologi Ramah Lingkungan
+- [x] Bab 32: Listrik Statis & Alat Musik Tradisional
+- [x] Bab 33: Listrik Dinamis & Sistem Penerangan Tradisional
 
 ## Bab yang Perlu Dibuat (Berdasarkan RPP):
 
 ### Semester 1:
-- [ ] Bab 19: Tekanan & Arsitektur Rumah Gadang
+- [ ] Bab 34: Kemagnetan & Teknik Tradisional
+- [ ] Bab 35: Induksi Elektromagnetik & Alat Tradisional
+- [ ] Bab 36: Energi Alternatif & Teknologi Tradisional
 
 ### Semester 2:
-- [ ] Bab 20: Tekanan & Sistem Irigasi Tradisional
-- [ ] Bab 21: Tekanan & Perahu Tradisional
-- [ ] Bab 22: Getaran & Alat Musik Tradisional
-- [ ] Bab 23: Gelombang Bunyi & Randai Minangkabau
-- [ ] Bab 24: Gelombang Air & Permainan Tradisional
-- [ ] Bab 25: Cahaya & Cermin Rumah Gadang
-- [ ] Bab 26: Pembiasan & Kaca Tradisional
-- [ ] Bab 27: Dispersi & Pelangi Danau Maninjau
-- [ ] Bab 28: Gaya & Bajak Tradisional
-- [ ] Bab 29: Usaha & Kincir Air Tradisional
-- [ ] Bab 30: Daya & Pengolahan Pangan Tradisional
+- [ ] Bab 37: Bumi & Tata Guna Lahan Tradisional
+- [ ] Bab 38: Tata Surya & Kalender Tradisional
+- [ ] Bab 39: Sistem Tata Surya & Navigasi Tradisional
+- [ ] Bab 40: Evolusi & Kearifan Lokal Pertanian
 
-## Total Bab: 30
-## Selesai: 18/30 (60%)
+## Total Bab: 40
+## Selesai: 33/40 (82.5%)
