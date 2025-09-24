@@ -34,11 +34,11 @@
 - [x] Bab 31: Energi & Teknologi Ramah Lingkungan
 - [x] Bab 32: Listrik Statis & Alat Musik Tradisional
 - [x] Bab 33: Listrik Dinamis & Sistem Penerangan Tradisional
+- [x] Bab 34: Kemagnetan & Teknik Tradisional
 
 ## Bab yang Perlu Dibuat (Berdasarkan RPP):
 
 ### Semester 1:
-- [ ] Bab 34: Kemagnetan & Teknik Tradisional
 - [ ] Bab 35: Induksi Elektromagnetik & Alat Tradisional
 - [ ] Bab 36: Energi Alternatif & Teknologi Tradisional
 
@@ -49,4 +49,4 @@
 - [ ] Bab 40: Evolusi & Kearifan Lokal Pertanian
 
 ## Total Bab: 40
-## Selesai: 33/40 (82.5%)
+## Selesai: 34/40 (85%)
