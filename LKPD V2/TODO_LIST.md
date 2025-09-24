@@ -15,17 +15,17 @@
 - [x] Bab 12: Zat Aditif Adiktif & Kearifan Pencegahan
 - [x] Bab 13: Sistem Peredaran Darah & Aktivitas Tradisional
 - [x] Bab 14: Sistem Peredaran Darah & Pengobatan Tradisional
+- [x] Bab 15: Sistem Pernapasan & Teknik Tradisional
+- [x] Bab 16: Sistem Pernapasan & Pengobatan Herbal
+- [x] Bab 17: Sistem Ekskresi & Kesehatan Ginjal
+- [x] Bab 18: Sistem Ekskresi & Pengobatan Tradisional
 
 ## Bab yang Perlu Dibuat (Berdasarkan RPP):
 
 ### Semester 1:
-- [ ] Bab 15: Sistem Pernapasan & Teknik Tradisional
-- [ ] Bab 16: Sistem Pernapasan & Pengobatan Herbal
-- [ ] Bab 17: Sistem Ekskresi & Kesehatan Ginjal
-- [ ] Bab 18: Sistem Ekskresi & Pengobatan Tradisional
+- [ ] Bab 19: Tekanan & Arsitektur Rumah Gadang
 
 ### Semester 2:
-- [ ] Bab 19: Tekanan & Arsitektur Rumah Gadang
 - [ ] Bab 20: Tekanan & Sistem Irigasi Tradisional
 - [ ] Bab 21: Tekanan & Perahu Tradisional
 - [ ] Bab 22: Getaran & Alat Musik Tradisional
@@ -39,4 +39,4 @@
 - [ ] Bab 30: Daya & Pengolahan Pangan Tradisional
 
 ## Total Bab: 30
-## Selesai: 14/30 (46.7%)
+## Selesai: 18/30 (60%)
